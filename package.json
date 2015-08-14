@@ -1,0 +1,22 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:p1": "node practice/p1-foreach.js || true",
+    "test:p2": "node practice/p2-map.js || true",
+    "test:p3": "node practice/p3-filter.js || true",
+    "test:p4": "node practice/p4-combined.js || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audaciousaretes/JSPractice.git"
+  },
+  "author": "Chase Adams <chaseadamsio.bcn@gmail.com> (http://chaseadams.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audaciousaretes/JSPractice/issues"
+  },
+  "homepage": "https://github.com/audaciousaretes/JSPractice#readme"
+}
